@@ -58,7 +58,6 @@ I thrive in creating seamless user experiences and building robust systems. My s
 
 Feel free to connect with me: 
 
-- Email: your-email@example.com
-- Phone: 0792744763
+- Email: oluyalireuben1@gmail.com
 
 Let's build something amazing together!
