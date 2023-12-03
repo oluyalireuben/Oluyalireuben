@@ -1,4 +1,4 @@
-                                         ### Hi there 👋 Am Reuben Oluyali
+                                           Hi there 👋 Am Reuben Oluyali
 
 
 -🔭 I’m currently working on enhancing my full-stack web development skills by building a dynamic e-commerce platform.
@@ -17,7 +17,6 @@
 
 ⚡ Fun fact: I enjoy experimenting with new coding languages and have a knack for creating unique and engaging user interfaces.
 
-# Reuben Oluyali's Portfolio
 
 Welcome to my GitHub repository! I'm Reuben Oluyali, a passionate full-stack website developer, Android developer, and network engineer currently pursuing a Bachelor's of Science in IT at Kabarak University.
 
