@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+https://github.com/oluyalireuben/Oluyalireuben/assets/60091643/d70167f8-566c-439a-93cc-7e39093edbb7
+
+
+
 -🔭 I’m currently working on enhancing my full-stack web development skills by building a dynamic e-commerce platform.
 
 🌱 I’m currently learning advanced concepts in Android app development, diving into Kotlin coroutines and exploring modern design patterns.
