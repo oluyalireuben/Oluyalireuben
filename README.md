@@ -20,25 +20,9 @@
 
 Welcome to my GitHub repository! I'm Reuben Oluyali, a passionate full-stack website developer, Android developer, and network engineer currently pursuing a Bachelor's of Science in IT at Kabarak University.
 
-## About Me
-
-I am a dedicated professional with expertise in:
-
-- Full-Stack Web Development
-- Android App Development
-- Network Engineering
 
 I thrive in creating seamless user experiences and building robust systems. My skills extend from front-end development to server-side scripting and mobile application development.
 
-## Projects
-
-### github.com/Oluyalireuben
-
-## Skills
-
-- **Web Development:**
-  - HTML, CSS, JavaScript
-  - React, Node.js, Express
 
 - **Android Development:**
   - Java, Kotlin
@@ -55,11 +39,5 @@ I thrive in creating seamless user experiences and building robust systems. My s
 
   - **Mobile Software Development and Entrepreneurship Program (MIT)**
   - eMobilis College Mobile Technology Institute
-
-## Contact
-
-Feel free to connect with me: 
-
-- Email: oluyalireuben1@gmail.com
 
 Let's build something amazing together!
