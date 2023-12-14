@@ -24,10 +24,10 @@ Welcome to my GitHub repository! I'm Reuben Oluyali, a passionate full-stack web
 I thrive in creating seamless user experiences and building robust systems. My skills extend from front-end development to server-side scripting and mobile application development.
 
 
-                                  - **Bachelor's of Science in IT**
-                                  - Kabarak University, Current Student
+                                    Bachelor's of Science in IT
+                                   Kabarak University, Current Student
 
-                     - **Mobile Software Development and Entrepreneurship Program (MIT)**
-                                - eMobilis College Mobile Technology Institute
+                     Mobile Software Development and Entrepreneurship Program (MIT)
+                                 eMobilis College Mobile Technology Institute
 
                                     Let's build something amazing together!
