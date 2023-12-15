@@ -25,9 +25,9 @@ I thrive in creating seamless user experiences and building robust systems. My s
 
 
                                     Bachelor's of Science in IT
-                                   Kabarak University, Current Student
+                                   Kabarak University, Current Student...
 
                      Mobile Software Development and Entrepreneurship Program (MIT)
-                                 eMobilis College Mobile Technology Institute
+                                 eMobilis College Mobile Technology Institute. ✅
 
-                                    Let's build something amazing together!
+                                 Let's build something amazing together!
