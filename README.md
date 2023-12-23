@@ -13,12 +13,7 @@
 
 📫 How to reach me: You can reach out to me through my email oluyalireuben1@gmail.com
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I enjoy experimenting with new coding languages and have a knack for creating unique and engaging user interfaces.
-
-
-Welcome to my GitHub repository! I'm Reuben Oluyali, a passionate full-stack website developer, Android developer, and network engineer currently pursuing a Bachelor's of Science in IT at Kabarak University.
 
 
 I thrive in creating seamless user experiences and building robust systems. My skills extend from front-end development to server-side scripting and mobile application development.
