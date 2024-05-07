@@ -11,7 +11,6 @@
 
 💬 Ask me about anything related to web development, Android app development, or networking - I'm always happy to share my knowledge and experiences.
 
-📫 How to reach me: You can reach out to me through my email oluyalireuben1@gmail.com
 
 ⚡ Fun fact: I enjoy experimenting with new coding languages and have a knack for creating unique and engaging user interfaces.
 
@@ -20,7 +19,7 @@ I thrive in creating seamless user experiences and building robust systems. My s
 
 
                                     Bachelor's of Science in IT
-                                         Kabarak University ✅
+                                     Kabarak University ✅
 
                      Mobile Software Development and Entrepreneurship Program (MIT)
                                  eMobilis College Mobile Technology Institute. ✅
