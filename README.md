@@ -19,7 +19,7 @@ I thrive in creating seamless user experiences and building robust systems. My s
 
 
                                     Bachelor's of Science in IT
-                                     Kabarak University ✅
+                                      Kabarak University ✅
 
                      Mobile Software Development and Entrepreneurship Program (MIT)
                                  eMobilis College Mobile Technology Institute. ✅
