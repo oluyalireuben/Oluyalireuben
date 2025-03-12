@@ -18,6 +18,6 @@ I specialize in building seamless user experiences, developing robust web system
                                       Kabarak University ✅
 
                      Mobile Software Development and Entrepreneurship Program (MIT)
-                                 eMobilis ✅
+                                          eMobilis ✅
 
                                  Let's build something amazing together!
